@@ -95,7 +95,7 @@ I applied one hot encoding for these categorical features.
 
 **Highest score: -** 0.8166
 
-**Rank: -** 1676
+**Rank: -** 1677
 
 
 
